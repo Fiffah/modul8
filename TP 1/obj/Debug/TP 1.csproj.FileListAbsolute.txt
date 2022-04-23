@@ -1,0 +1,11 @@
+C:\Users\RAFIF\source\repos\TP 1\TP 1\bin\Debug\TP 1.exe.config
+C:\Users\RAFIF\source\repos\TP 1\TP 1\bin\Debug\TP 1.exe
+C:\Users\RAFIF\source\repos\TP 1\TP 1\bin\Debug\TP 1.pdb
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP 1.csproj.AssemblyReference.cache
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP_1.Form1.resources
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP_1.Properties.Resources.resources
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP 1.csproj.GenerateResource.cache
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP 1.csproj.CoreCompileInputs.cache
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP 1.exe
+C:\Users\RAFIF\source\repos\TP 1\TP 1\obj\Debug\TP 1.pdb

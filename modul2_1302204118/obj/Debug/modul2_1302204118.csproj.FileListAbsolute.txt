@@ -1,0 +1,11 @@
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\bin\Debug\modul2_1302204118.exe.config
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\bin\Debug\modul2_1302204118.exe
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\bin\Debug\modul2_1302204118.pdb
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.csproj.AssemblyReference.cache
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.Form1.resources
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.Properties.Resources.resources
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.csproj.GenerateResource.cache
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.csproj.CoreCompileInputs.cache
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.exe
+C:\Users\RAFIF\source\repos\modul2_1302204118\modul2_1302204118\obj\Debug\modul2_1302204118.pdb
